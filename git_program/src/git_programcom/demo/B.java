@@ -19,6 +19,7 @@ public class B {
 		}
 		public void m3()
 		{
-			System.out.println("M2_____Method");
+			System.out.println("M3_____Method");
 		}
+	
 	}
