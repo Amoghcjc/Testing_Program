@@ -17,4 +17,8 @@ public class B {
 		{
 			System.out.println("M2_____Method");
 		}
+		public void m3()
+		{
+			System.out.println("M2_____Method");
+		}
 	}
